@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-Name = "C111151112"
-Pass = "Aa0909262309"
+Name = "***********"
+Pass = "***********"
 
 driver = webdriver.Chrome('./chromedriver')
 driver.get('https://elearning.nkust.edu.tw/mooc/login.php')
